@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header image](/images/banner-1920.jpg)
+![header image](/billkindle/images/banner_1920.jpg)
 
 - 📫 How to reach me: **LinkedIn** | https://www.linkedin.com/in/billkindle
 
