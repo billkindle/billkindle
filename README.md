@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header image](/images/)
+
 - 📫 How to reach me: **LinkedIn** | https://www.linkedin.com/in/billkindle
 
 - 🔭 I’m currently working on PowerShell, Patch Management Automation, and Zabbix Monitoring.
