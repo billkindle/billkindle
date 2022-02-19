@@ -4,8 +4,8 @@
 
 - 📫 How to reach me: **LinkedIn** | https://www.linkedin.com/in/billkindle
 
-- 🔭 I’m currently working on a SIEM / SOAR implementation.
-- 🌱 I’m currently learning Azure, Ansible, Terraform, Python, SIEM/EDR, Elasticsearch. 
+- 🔭 I’m currently working on a SIEM / SOAR implementation and reading books. 
 - 👯 I’m interested in collaborating on open source projects and writing blog posts. #BeTheMaster
+- I am open to remote work opportunities. 
 
-- Current Role: **Cybersecurity Engineer**
+- Current Role: **Cybersecurity Systems Engineer**
