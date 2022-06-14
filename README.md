@@ -11,6 +11,9 @@ my first computer with a [book](https://www.goodreads.com/book/show/5014046-buil
 
 Two decades have passed since I first started my journey. To this day, I still have a child-like curiousity and love for learning new technologies. 
 
+### Resume
+- Markdown Format: https://gist.github.com/billkindle/3ddf5f9ca4571d2a990f3ab2fba007e4
+
 ### How to Contact Me
 - 📫 How to reach me: **LinkedIn** | https://www.linkedin.com/in/billkindle
 
