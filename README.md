@@ -18,10 +18,10 @@ Two decades have passed since I first started my journey. To this day, I still h
 - 📫 How to reach me: **LinkedIn** | https://www.linkedin.com/in/billkindle
 
 ### What I'm Up To
-- 🔭 Currently working on a SIEM / SOAR implementation and reading books.
+- 🔭 Reading books. Taking a short break from cybersecurity work. 
 
 ### Stuff I'm Doing or Want To Outside of 9-5
 - 👯 I’m interested in collaborating on open source projects and writing blog posts. #BeTheMaster
 - Helping out with [Bsides Fort Wayne](https://bsidesfortwayne.org/) to promote and engage the local cyber security community in Fort Wayne, Indiana USA
 
-- Current Role: **Cybersecurity Systems Engineer**
+- Current Role: **Havent' Decided Yet**
