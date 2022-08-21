@@ -18,10 +18,11 @@ Two decades have passed since I first started my journey. To this day, I still h
 - 📫 How to reach me: **LinkedIn** | https://www.linkedin.com/in/billkindle
 
 ### What I'm Up To
-- 🔭 Reading books. Taking a short break from cybersecurity work. 
+- 🔭 Being a Dad. Writing blog posts. Reading books. 
 
 ### Stuff I'm Doing or Want To Outside of 9-5
 - 👯 I’m interested in collaborating on open source projects and writing blog posts. #BeTheMaster
 - Helping out with [Bsides Fort Wayne](https://bsidesfortwayne.org/) to promote and engage the local cyber security community in Fort Wayne, Indiana USA
+- Helping out with editing and writing tasks for Modern IT Automation with PowerShell (soon to publish).
 
-- Current Role: **Havent' Decided Yet**
+- Current Role: **Senior Systems Engineer**, Professional AA battery replacer, fixer of toys. 
