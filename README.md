@@ -23,6 +23,6 @@ Two decades have passed since I first started my journey. To this day, I still h
 ### Stuff I'm Doing or Want To Outside of 9-5
 - 👯 I’m interested in collaborating on open source projects and writing blog posts. #BeTheMaster
 - Helping out with [Bsides Fort Wayne](https://bsidesfortwayne.org/) to promote and engage the local cyber security community in Fort Wayne, Indiana USA
-- Helping out with editing and writing tasks for Modern IT Automation with PowerShell.
+- Helping out with editing and writing tasks for Modern IT Automation with PowerShell https://leanpub.com/modernautomationwithpowershell/
 
 - Current Role: **Senior Systems Engineer**(Security & Infrastructure), Professional battery replacer, fixer of toys. 
