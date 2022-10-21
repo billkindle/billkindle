@@ -28,7 +28,7 @@ Two decades have passed since I first started my journey. To this day, I still h
 - Helping out with [Bsides Fort Wayne](https://bsidesfortwayne.org/) to promote and engage the local cyber security community in Fort Wayne, Indiana USA
 
 ### Completed Recently
-- Helping out with editing and writing tasks for Modern IT Automation with PowerShell https://leanpub.com/modernautomationwithpowershell/
+- Helped out with editing and writing tasks for Modern IT Automation with PowerShell as a Senior Editor https://leanpub.com/modernautomationwithpowershell/
 
 ### Current Role
 - **Senior Systems Engineer**(Security & Infrastructure), Professional battery replacer, fixer of toys. 
