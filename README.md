@@ -22,7 +22,8 @@ Two decades have passed since I first started my journey. To this day, I still h
 
 ### Writing
 - [ATALearning](https://adamtheautomator.com/author/bill/)
-- [4SysOps]()
+- [4SysOps](https://4sysops.com/members/bill-kindle/)
+- [Fragments of Knowledge](https://billkindle.substack.com)
 
 ### What I'm Up To
 - 🔭 Being a Dad. Writing blog posts. Reading books. 
