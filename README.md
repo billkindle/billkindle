@@ -20,6 +20,10 @@ Two decades have passed since I first started my journey. To this day, I still h
 ### Podcasts
 - [Nerd Journey Podcast ep. 180-182](https://nerd-journey.com/?s=Bill+Kindle)
 
+### Writing
+- [ATALearning](https://adamtheautomator.com/author/bill/)
+- [4SysOps]()
+
 ### What I'm Up To
 - 🔭 Being a Dad. Writing blog posts. Reading books. 
 
