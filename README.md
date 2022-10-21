@@ -17,6 +17,9 @@ Two decades have passed since I first started my journey. To this day, I still h
 ### How to Contact Me
 - 📫 It's best to reach me via **LinkedIn** | https://www.linkedin.com/in/billkindle
 
+### Podcasts
+- [Nerd Journey Podcast ep. 180-182](https://nerd-journey.com/?s=Bill+Kindle)
+
 ### What I'm Up To
 - 🔭 Being a Dad. Writing blog posts. Reading books. 
 
