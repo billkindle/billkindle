@@ -25,15 +25,17 @@ Two decades have passed since I first started my journey. To this day, I still h
 - [4SysOps](https://4sysops.com/members/bill-kindle/)
 - [Fragments of Knowledge](https://billkindle.substack.com)
 
+### Book projects I've been a part of:
+Senior Editor - [Modern IT Automation With PowerShell](https://www.amazon.com/Modern-Automation-PowerShell-Michael-Zanatta/dp/B0BSC55Y8N)
+Editor - [PowerShell Conferencebook volume 3](https://www.amazon.com/PowerShell-Conference-Book-3/dp/B08MGR749H)
+Contributor - [PowerShell Conference Book volume 2](https://www.amazon.com/PowerShell-Conference-Book-2/dp/B0863TWXZ3)
+
 ### What I'm Up To
-- 🔭 Being a Dad. Writing blog posts. Reading books. 
+- 🔭 Being a Dad. Writing blog posts. Reading books. Living life.
 
 ### Stuff I'm Doing or Want To Outside of 9-5
 - 👯 I’m interested in collaborating on open source projects and writing blog posts. #BeTheMaster
 - Helping out with [Bsides Fort Wayne](https://bsidesfortwayne.org/) to promote and engage the local cyber security community in Fort Wayne, Indiana USA
-
-### Completed Recently
-- Helped out with editing and writing tasks for Modern IT Automation with PowerShell as a Senior Editor https://leanpub.com/modernautomationwithpowershell/
 
 ### Current Role
 - **Senior Systems Engineer**(Security & Infrastructure), Professional battery replacer, fixer of toys. 
