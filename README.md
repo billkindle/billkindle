@@ -26,9 +26,9 @@ Two decades have passed since I first started my journey. To this day, I still h
 - [Fragments of Knowledge](https://billkindle.substack.com)
 
 ### Book projects I've been a part of:
-Senior Editor - [Modern IT Automation With PowerShell](https://www.amazon.com/Modern-Automation-PowerShell-Michael-Zanatta/dp/B0BSC55Y8N)
-Editor - [PowerShell Conferencebook volume 3](https://www.amazon.com/PowerShell-Conference-Book-3/dp/B08MGR749H)
-Contributor - [PowerShell Conference Book volume 2](https://www.amazon.com/PowerShell-Conference-Book-2/dp/B0863TWXZ3)
+- Senior Editor [Modern IT Automation With PowerShell](https://www.amazon.com/Modern-Automation-PowerShell-Michael-Zanatta/dp/B0BSC55Y8N)
+- Editor [PowerShell Conferencebook volume 3](https://www.amazon.com/PowerShell-Conference-Book-3/dp/B08MGR749H)
+- Contributor [PowerShell Conference Book volume 2](https://www.amazon.com/PowerShell-Conference-Book-2/dp/B0863TWXZ3)
 
 ### What I'm Up To
 - 🔭 Being a Dad. Writing blog posts. Reading books. Living life.
