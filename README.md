@@ -35,7 +35,7 @@ Two decades have passed since I first started my journey. To this day, I still h
 - 🔭 Being a Dad. Writing blog posts. Reading books. Living life.
 
 ### Stuff I'm Doing or Want To Outside of 9-5
-- 👯 I’m interested in collaborating on open source projects and writing blog posts. #BeTheMaster
+- 👯 I’m interested in collaborating on open source projects and writing blog posts. [#BeTheMaster](https://leanpub.com/bethemaster)
 - Helping out with [Bsides Fort Wayne](https://bsidesfortwayne.org/) to promote and engage the local cyber security community in Fort Wayne, Indiana USA
 
 ### Current Role
