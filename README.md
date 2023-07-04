@@ -21,6 +21,7 @@ Two decades have passed since I first started my journey. To this day, I still h
 - [Nerd Journey Podcast ep. 180-182](https://nerd-journey.com/?s=Bill+Kindle)
 
 ### Writing
+- [Petri.com](https://petri.com/author/bill-kindle/)
 - [ATALearning](https://adamtheautomator.com/author/bill/)
 - [4SysOps](https://4sysops.com/members/bill-kindle/)
 - [Fragments of Knowledge](https://billkindle.substack.com)
