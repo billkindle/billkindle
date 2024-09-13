@@ -34,9 +34,12 @@ Two decades have passed since I first started my journey. To this day, I still h
 ### What I'm Up To
 - 🔭 Being a Dad. Writing blog posts. Reading books. Living life.
 
-### Stuff I'm Doing or Want To Outside of 9-5
+### Stuff I'm Doing Outside of the 9-5
 - 👯 I’m interested in collaborating on open source projects and writing blog posts. [#BeTheMaster](https://leanpub.com/bethemaster)
 - Helping out with [Bsides Fort Wayne](https://bsidesfortwayne.org/) to promote and engage the local cyber security community in Fort Wayne, Indiana USA
+- Coaching U7 Soccer (I have no idea what I'm doing!)
+- Gardening and teaching my kids how to grow food
+- Building stuff in my garage
 
 ### Current Role
 - **Senior Systems Engineer**(Security & Infrastructure), Professional battery replacer, fixer of toys. 
