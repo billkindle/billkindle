@@ -9,7 +9,7 @@ I've *always* enjoyed working with technology. I enjoy solving problems, buildin
 From the time I started learning how to type with [Mario Teaches Typing](https://archive.org/details/msdos_Mario_Teaches_Typing_1992), to building 
 my first computer with a [book](https://www.goodreads.com/book/show/5014046-build-your-own-pc) that my Aunt bought me, I knew I wanted to make a career of it.
 
-Two decades have passed since I first started my journey. To this day, I still have a child-like curiousity and love for learning about and using new technologies. 
+Over two decades have passed since I first started my journey. To this day, I still have that child-like curiousity and love for learning about technology. 
 
 ### Resume
 - Markdown Format: https://gist.github.com/billkindle/3ddf5f9ca4571d2a990f3ab2fba007e4
@@ -20,7 +20,7 @@ Two decades have passed since I first started my journey. To this day, I still h
 ### Podcasts
 - [Nerd Journey Podcast ep. 180-182](https://nerd-journey.com/?s=Bill+Kindle)
 
-### Writing
+### Writing (Open for opportunties to be a ghost writer too!)
 - [Petri.com](https://petri.com/author/bill-kindle/)
 - [ATALearning](https://adamtheautomator.com/author/bill/)
 - [4SysOps](https://4sysops.com/members/bill-kindle/)
@@ -36,10 +36,10 @@ Two decades have passed since I first started my journey. To this day, I still h
 
 ### Stuff I'm Doing Outside of the 9-5
 - 👯 I’m interested in collaborating on open source projects and writing blog posts. [#BeTheMaster](https://leanpub.com/bethemaster)
-- Helping out with [Bsides Fort Wayne](https://bsidesfortwayne.org/) to promote and engage the local cyber security community in Fort Wayne, Indiana USA
-- Coaching U7 Soccer (I have no idea what I'm doing!)
-- Gardening and teaching my kids how to grow food
-- Building stuff in my garage
+- Helping out with [Bsides Fort Wayne](https://bsidesfortwayne.org/) to promote and engage the local cybersecurity community in Fort Wayne, Indiana USA
+- Teaching my kids how to grow food (gardening and soon, chickens!)
+- Building (trying to at least) stuff in my garage
+- Dreaming of building a small model railroad in my basement
 
 ### Current Role
 - **Senior Systems Engineer**(Security & Infrastructure), Professional battery replacer, fixer of toys. 
